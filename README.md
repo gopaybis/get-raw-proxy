@@ -50,8 +50,9 @@ Input file `.txt` harus memiliki format per baris seperti berikut:
 
 ## 🧪 Contoh Online
 
-🔗 [Demo via Cloudflare Worker]([https://get-raw-pro.xychecker.workers.dev/](https://get-raw-pro.xychecker.workers.dev/))  
-*(Ganti dengan URL deploy Anda)*
+🔗 [Demo via Cloudflare Worker](https://get-raw-pro.xychecker.workers.dev)  
+*(Deploy versi Anda sendiri di Cloudflare jika ingin custom)*
+
 
 ## 📄 Lisensi
 
