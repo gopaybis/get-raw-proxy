@@ -15,6 +15,9 @@ Alat berbasis Cloudflare Worker untuk mengekstrak IP:PORT dari file teks (`.txt`
 - ✅ Salin atau unduh hasil sebagai file `.txt`
 - 🌙 Dark Mode dengan Tailwind CSS
 - ⚡ Dibangun di atas **Cloudflare Workers** – cepat dan bebas hosting!
+## 📸 Tampilan Antarmuka
+
+![preview]([https://user-images.githubusercontent.com/yourusername/yourimage.png](https://raw.githubusercontent.com/gopaybis/get-raw-proxy/refs/heads/main/Screenshot_2025-06-15-20-18-07-689_com.android.chrome.jpg))
 
 ## 🚀 Cara Deploy (Cloudflare Workers)
 
