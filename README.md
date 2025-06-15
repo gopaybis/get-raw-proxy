@@ -48,11 +48,9 @@ Input file `.txt` harus memiliki format per baris seperti berikut:
 - **Hasil IP:PORT**: Disaring unik, siap digunakan untuk testing proxy, dll.
 - **Hasil Lengkap**: Tetap mempertahankan `CC` dan `ISP` untuk referensi.
 
-## 🧪 Contoh Online
+## 🧪 Demo Online
 
-🔗 [Demo via Cloudflare Worker](https://get-raw-pro.xychecker.workers.dev)  
-*(Deploy versi Anda sendiri di Cloudflare jika ingin custom)*
-
+🔗 [https://get-raw-pro.xychecker.workers.dev](https://get-raw-pro.xychecker.workers.dev)   
 
 ## 📄 Lisensi
 
