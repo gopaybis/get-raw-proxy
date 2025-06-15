@@ -18,8 +18,6 @@ Alat berbasis Cloudflare Worker untuk mengekstrak IP:PORT dari file teks (`.txt`
   
 ## 📸 Tampilan Antarmuka
 
-## 📸 Tampilan Antarmuka
-
 ![preview](https://raw.githubusercontent.com/gopaybis/get-raw-proxy/refs/heads/main/Screenshot_2025-06-15-20-18-07-689_com.android.chrome.jpg)
 
 ## 🚀 Cara Deploy (Cloudflare Workers)
